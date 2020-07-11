@@ -1,7 +1,6 @@
 import * as React from "react";
 import {NavLink, Link} from "react-router-dom";
 import '../../Styles/style.css';
-import 'semantic-ui-css/semantic.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import {getSources} from "../../client";
 import ContactUs from "../ContactUs/ContactUs";
